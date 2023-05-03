@@ -1,5 +1,5 @@
 ## Welcome to Ai Chat for Eclipse and RDi ![image](https://user-images.githubusercontent.com/180969/236003198-451c48f9-5718-4d4e-bce0-364ea2910f37.png)
-
+ 
 Introducing Ai Chat by Remain Software, the ultimate AI chatbot that simplifies coding and documentation tasks in Eclipse. Its intuitive Ai Chat View and ChatGPT interface provide a seamless experience for developers and technical writers. This tool leverages the power of AI to provide contextual suggestions, code snippets, bug checking, and documentation proposals, empowering you to write code faster and more efficiently. Whether you're a seasoned developer or just getting started, Remain Ai Chat is the perfect companion to take your coding and documentation skills to the next level. Try it out today and see why Remain Ai Chat is RDi's and Eclipse's go-to AI chatbot.
 
 ### Installation  [![chatlogo@2x](https://user-images.githubusercontent.com/180969/236005047-d1b21763-83b8-4df8-a3f7-3463cc2ab920.png)](https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=5590748)
