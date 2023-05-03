@@ -12,15 +12,13 @@ Drag the Icon above into your running Eclipse instance or select Help/Install Ne
 
 (2) For RDi 9.6.x http://remainsoftware.com/aichat/updates
 
-### Getting Started
-![chatlogo@2x](https://user-images.githubusercontent.com/180969/236005422-07fff3c7-dd4b-4dd3-9a65-9541e41bead5.png)
+### Getting Started ![chatlogo@2x](https://user-images.githubusercontent.com/180969/236005422-07fff3c7-dd4b-4dd3-9a65-9541e41bead5.png)
 
 Find the Ai Chat logo in the main toolbar and push it. This will open the Ai Chat View.
 
 The first thing to do is to dock it on top of the outline view to the right of the Editor Area.
 
-### Setting Properties
-![preferences@2x](https://user-images.githubusercontent.com/180969/236005274-1507d5e6-11f8-4ed3-b20d-bac43242b7e3.png)
+### Setting Properties ![preferences@2x](https://user-images.githubusercontent.com/180969/236005274-1507d5e6-11f8-4ed3-b20d-bac43242b7e3.png)
 
 Find the properties by pressing on the icon to open the Chat Settings. For the ChatGPT API to work you have to enter an API Token and Organization key. You can sign up for a trial or you can ask your employer to register for an account and to add you as a member of the organization. Prices are very low and it is fair to chip in for the computer power. You won't regret it.
 
@@ -28,8 +26,7 @@ Please take a look at the other settings. Most notably the System Message. This 
 
 ![image](https://user-images.githubusercontent.com/180969/236003968-0c257532-44a9-4864-a38c-a9e49ac0c218.png)
 
-### Operating the Client
-![image](https://user-images.githubusercontent.com/180969/236004048-7da2d8c8-85c1-4324-91cf-fe77a830e490.png)
+### Operating the Client ![image](https://user-images.githubusercontent.com/180969/236004048-7da2d8c8-85c1-4324-91cf-fe77a830e490.png)
 
 ![add@2x](https://user-images.githubusercontent.com/180969/236005515-a324c6a0-b179-4dd6-b806-80c1a79ebd90.png)
 The toolbar helps you to get around. Use the green 'plus' to start a new chat. Before you start typing you can use the context menu to increase the font size of the wizard.
